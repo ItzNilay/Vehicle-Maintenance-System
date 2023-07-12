@@ -1,0 +1,14 @@
+This app allows users to schedule regular maintenance tasks, receive 
+notifications for upcoming maintenance, and keep track of vehicle repair history. 
+The app is user-friendly, easy to navigate, and can be customized to meet 
+individual user needs. The system allows users to set up custom maintenance 
+schedules based on time or mileage intervals, record maintenance and repair 
+history, track expenses, and generate reports on vehicle performance and cost. 
+Some systems may also provide real-time tracking of vehicle location and status, 
+enabling fleet managers to optimize vehicle usage and reduce downtime. The use 
+of a Vehicle Maintenance System can help improve vehicle reliability, reduce 
+maintenance costs, and increase overall efficiency of fleet operations. This project 
+report provides a detailed overview of the development process, including the 
+project requirements, design, implementation, testing, and deployment phases. The 
+report also discusses the challenges encountered during the development process 
+and the solutions adopted to overcome them.

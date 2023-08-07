@@ -1,4 +1,4 @@
-This app allows users to schedule regular maintenance tasks, receive 
+This VMS app allows users to schedule regular maintenance tasks, receive 
 notifications for upcoming maintenance, and keep track of vehicle repair history. 
 The app is user-friendly, easy to navigate, and can be customized to meet 
 individual user needs. The system allows users to set up custom maintenance 

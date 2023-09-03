@@ -111,7 +111,7 @@ borderRadius: BorderRadius.circular(16), child: Image.asset(
 fit: BoxFit.cover,
 ),
 ),
-// child: Text(carmodel!), decoration: BoxDecoration(
+
 color: Colors.black.withAlpha(50), borderRadius: BorderRadius.circular(16),
 ),
 ),

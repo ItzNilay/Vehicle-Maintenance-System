@@ -39,12 +39,10 @@ style: ElevatedButton.styleFrom( surfaceTintColor: Colors.white, foregroundColor
 initialRoute: initialroute,
 onGenerateRoute: RouteGenerator.generateRoute,
 );
-}
+                                  }
 }
 
-// addnewcar.dart
-
-import 'package:firebase_auth/firebase_auth.dart'; import 'package:flutter/cupertino.dart';
+// addnewcar.dfirebase_auth.dart'e:firebase_auth/firebase_auth.dart'; import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:vehicle_maintenance_app/data.dart'; import 'package:vehicle_maintenance_app/global.dart'; import
 'package:vehicle_maintenance_app/services/user_services.dart';
